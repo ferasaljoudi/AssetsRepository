@@ -2,7 +2,7 @@
     xmlns:dc="http://purl.org/dc/elements/1.1/"
     xmlns:cc="http://creativecommons.org/ns#"
     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-    width="77" height="28" role="img" aria-label="VIVADO">
+    width="77" height="28" role="img" aria-label="STM 32">
     <title>STM</title>
 
     <rect x="0" y="0" width="77" height="28" fill="#000078" />
