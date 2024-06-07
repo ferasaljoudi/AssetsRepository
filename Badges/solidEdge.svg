@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="105"
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="125"
     height="28" role="img" aria-label="SOLID EDGE">
     <title>SOLID EDGE</title>
 
@@ -20,7 +20,7 @@
     </symbol>
 
     <g shape-rendering="crispEdges">
-        <rect width="105" height="28" fill="url(#borderLine)" />
+        <rect width="125" height="28" fill="url(#borderLine)" />
     </g>
 
     <g transform="translate(2, 1) scale(0.2)">
