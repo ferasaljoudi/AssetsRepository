@@ -2,7 +2,18 @@
     height="28" role="img" aria-label="JAVA">
     <title>JAVA</title>
 
-    <rect x="0" y="0" width="63" height="28" fill="#55809E" />
+    <defs>
+        <radialGradient id="borderLine" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+            <stop offset="0%" stop-color="#0000FF">
+                <animate attributeName="stop-color" values="#0000FF;#1E90FF;#00BFFF;#87CEFA;#4682B4;#0000FF" dur="7s" repeatCount="indefinite"/>
+            </stop>
+            <stop offset="100%" stop-color="#1E90FF">
+                <animate attributeName="stop-color" values="#1E90FF;#00BFFF;#87CEFA;#4682B4;#5F9EA0;#1E90FF" dur="7s" repeatCount="indefinite"/>
+            </stop>
+        </radialGradient>
+    </defs>
+
+    <rect x="0" y="0" width="63" height="28" fill="url(#borderLine)" />
 
     <g transform="translate(7, 5) scale(0.04)">
         <path fill-rule="evenodd" clip-rule="evenodd" fill="#0024BD"
