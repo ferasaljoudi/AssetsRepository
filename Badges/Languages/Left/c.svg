@@ -5,17 +5,17 @@
     <defs>
         <radialGradient id="boxFill" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
             <stop offset="0%" stop-color="#0000FF">
-                <animate attributeName="stop-color" values="#0000FF;#1E90FF;#00BFFF;#87CEFA;#4682B4;#0000FF" dur="6s" repeatCount="indefinite"/>
+                <animate attributeName="stop-color" values="#00BFFF;#87CEFA;#4682B4;#0000FF;#1E90FF;#00BFFF" dur="5s" repeatCount="indefinite"/>
             </stop>
             <stop offset="100%" stop-color="#1E90FF">
-                <animate attributeName="stop-color" values="#1E90FF;#00BFFF;#87CEFA;#4682B4;#5F9EA0;#1E90FF" dur="6s" repeatCount="indefinite"/>
+                <animate attributeName="stop-color" values="#87CEFA;#4682B4;#5F9EA0;#1E90FF;#00BFFF;#87CEFA" dur="5s" repeatCount="indefinite"/>
             </stop>
         </radialGradient>
     </defs>
 
     <rect x="0" y="0" width="125" height="30" fill="url(#boxFill)" />
 
-    <g transform="translate(5, 4.5) scale(0.5)">
+    <g transform="translate(5, 3) scale(0.58)">
         <path
             fill="#283593"
             d="m 17.903,0.28628166 c 0.679,-0.381 1.515,-0.381 2.193,0 C 23.451,2.1692817 33.547,7.8372817 36.903,9.7202817 37.582,10.100282 38,10.804282 38,11.566282 c 0,3.766 0,15.101 0,18.867 0,0.762 -0.418,1.466 -1.097,1.847 -3.355,1.883 -13.451,7.551 -16.807,9.434 -0.679,0.381 -1.515,0.381 -2.193,0 -3.355,-1.883 -13.451,-7.551 -16.807,-9.434 -0.678,-0.381 -1.096,-1.084 -1.096,-1.846 0,-3.766 0,-15.101 0,-18.867 0,-0.762 0.418,-1.466 1.097,-1.8470003 3.354,-1.883 13.452,-7.551 16.806,-9.43400004 z"
