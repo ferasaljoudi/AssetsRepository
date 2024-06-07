@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="125"
-    height="28" role="img" aria-label="JAVA">
+    height="30" role="img" aria-label="JAVA">
     <title>JAVA</title>
 
     <defs>
@@ -13,7 +13,7 @@
         </radialGradient>
     </defs>
 
-    <rect x="0" y="0" width="125" height="28" fill="url(#borderLine)" />
+    <rect x="0" y="0" width="125" height="30" fill="url(#borderLine)" />
 
     <g transform="translate(7, 5) scale(0.04)">
         <path fill-rule="evenodd" clip-rule="evenodd" fill="#0024BD"
