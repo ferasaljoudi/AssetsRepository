@@ -14,14 +14,14 @@ The purpose of this repository is to store and manage SVG files used across mult
 
 <div align="center">
 
-Testing SVGs
+### Testing SVGs
 
-<a href="#"><img src="Badges/java.svg" alt="Java"></a>
-
-<a href="#"><img src="Badges/vivado.svg" alt="Java"></a>
-
-<a href="#"><img src="Badges/qtSpim.svg" alt="Java"></a>
-
-<a href="#"><img src="Badges/solidEdge.svg" alt="Java"></a>
+<table>
+  <tr>
+    <td><a href="#"><img src="Badges/java.svg" alt="Java"></a></td>
+    <td><a href="#"><img src="Badges/vivado.svg" alt="vivado"></a></td>
+    <td><a href="#"><img src="Badges/qtSpim.svg" alt="qtSpim"></a></td>
+  </tr>
+</table>
 
 </div>
