@@ -9,3 +9,19 @@ The purpose of this repository is to store and manage SVG files used across mult
 - <b>Reusability:</b> Enable reuse of SVG assets across multiple repositories without duplicating files.
 - <b>Consistency:</b> Ensure a consistent look by using the same assets in different projects.
 - <b>Ease of updates:</b> Simplify the process of updating SVG files by making changes in one location.
+
+
+
+<div align="center">
+
+Testing SVGs
+
+<a href="#"><img src="Badges/java.svg" alt="Java"></a>
+
+<a href="#"><img src="Badges/vivado.svg" alt="Java"></a>
+
+<a href="#"><img src="Badges/qtSpim.svg" alt="Java"></a>
+
+<a href="#"><img src="Badges/solidEdge.svg" alt="Java"></a>
+
+</div>

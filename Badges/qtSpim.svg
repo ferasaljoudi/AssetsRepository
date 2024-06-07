@@ -2,7 +2,18 @@
     height="28" role="img" aria-label="QtSPIM">
     <title>QtSpim</title>
 
-    <rect x="0" y="0" width="80" height="28" fill="#0045A3" />
+    <defs>
+        <radialGradient id="borderLine" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+            <stop offset="0%" stop-color="#0000FF">
+                <animate attributeName="stop-color" values="#0000FF;#1E90FF;#00BFFF;#87CEFA;#4682B4;#0000FF" begin="4s" dur="7s" repeatCount="indefinite"/>
+            </stop>
+            <stop offset="100%" stop-color="#1E90FF">
+                <animate attributeName="stop-color" values="#1E90FF;#00BFFF;#87CEFA;#4682B4;#5F9EA0;#1E90FF" begin="4s" dur="7s" repeatCount="indefinite"/>
+            </stop>
+        </radialGradient>
+    </defs>
+
+    <rect x="0" y="0" width="80" height="28" fill="url(#borderLine)" />
     <g transform="translate(1, 0.5) scale(0.83)">
         <image
             width="33.866665"
