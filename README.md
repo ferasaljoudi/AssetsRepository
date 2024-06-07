@@ -18,9 +18,9 @@ The purpose of this repository is to store and manage SVG files used across mult
 
 <table>
   <tr>
-    <td style="vertical-align: center;"><a href="#"><img src="Badges/java.svg" alt="Java"></a></td>
-    <td style="vertical-align: center;"><a href="#"><img src="Badges/vivado.svg" alt="vivado"></a></td>
-    <td style="vertical-align: center;"><a href="#"><img src="Badges/qtSpim.svg" alt="qtSpim"></a></td>
+    <td style="vertical-align: center;"><a href="#"><img src="Badges/java.svg" alt="Java" style="margin: 0; padding: 0;"></a></td>
+    <td style="vertical-align: center;"><a href="#"><img src="Badges/vivado.svg" alt="vivado" style="margin: 0; padding: 0;"></a></td>
+    <td style="vertical-align: center;"><a href="#"><img src="Badges/qtSpim.svg" alt="qtSpim" style="margin: 0; padding: 0;"></a></td>
   </tr>
 </table>
 
