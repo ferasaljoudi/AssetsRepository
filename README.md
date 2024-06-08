@@ -18,19 +18,39 @@ The purpose of this repository is to store and manage SVG files used across mult
 
 <table>
   <tr>
-    <td><a href="#"><img src="Badges/Languages/Left/c.svg" alt="C"></a></td>
-    <td><a href="#"><img src="Badges/Languages/Middle/cSharp.svg" alt="C Sharp"></a></td>
-    <td><a href="#"><img src="Badges/Languages/Right/cpp.svg" alt="Cpp"></a></td>
-  </tr>
-  <tr>
-    <td><a href="#"><img src="Badges/Languages/Left/java.svg" alt="Java"></a></td>
-    <td><a href="#"><img src="Badges/Languages/Middle/python.svg" alt="Python"></a></td>
-    <td><a href="#"><img src="Badges/Languages/Right/php.svg" alt="PHP"></a></td>
-  </tr>
-  <tr>
-    <td><a href="#"><img src="Badges/Languages/Left/javaScript.svg" alt="JavaScript"></a></td>
-    <td><a href="#"><img src="Badges/Languages/Middle/shellScript.svg" alt="ShellScript"></a></td>
-    <td><a href="#"><img src="Badges/Languages/Right/vhdl.svg" alt="VHDL"></a></td>
+    <td>
+      <a href="#"><img src="Badges/Languages/Left/c.svg" alt="C"></a>
+      <br>
+      <a href="#"><img src="Badges/Languages/Left/java.svg" alt="Java"></a>
+      <br>
+      <a href="#"><img src="Badges/Languages/Left/javaScript.svg" alt="JavaScript"></a>
+      <br>
+      <a href="#"><img src="Badges/Languages/Left/html.svg" alt="HTML"></a>
+      <br>
+      <a href="#"><img src="Badges/Languages/Left/arm.svg" alt="ARM"></a>
+    </td>
+    <td>
+      <a href="#"><img src="Badges/Languages/Middle/cSharp.svg" alt="C Sharp"></a>
+      <br>
+      <a href="#"><img src="Badges/Languages/Middle/python.svg" alt="Python"></a>
+      <br>
+      <a href="#"><img src="Badges/Languages/Middle/shellScript.svg" alt="ShellScript"></a>
+      <br>
+      <a href="#"><img src="Badges/Languages/Middle/html5.svg" alt="HTML5"></a>
+      <br>
+      <a href="#"><img src="Badges/Languages/Middle/mips.svg" alt="MIPS"></a>
+    </td>
+    <td>
+      <a href="#"><img src="Badges/Languages/Right/cpp.svg" alt="Cpp"></a>
+      <br>
+      <a href="#"><img src="Badges/Languages/Right/php.svg" alt="PHP">
+      <br>
+      <a href="#"><img src="Badges/Languages/Right/typeScript.svg" alt="TypeScript"></a>
+      <br>
+      <a href="#"><img src="Badges/Languages/Right/css.svg" alt="CSS"></a>
+      <br>
+      <a href="#"><img src="Badges/Languages/Right/vhdl.svg" alt="VHDL"></a>
+    </td>
   </tr>
 </table>
 

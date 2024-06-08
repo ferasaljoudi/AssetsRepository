@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="125"
+    height="30" role="img" aria-label="JAVA">
+    <title>ARM</title>
+
+    <defs>
+        <radialGradient id="boxFill" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+            <stop offset="0%" stop-color="#0000FF">
+                <animate attributeName="stop-color"
+                    values="#00BFFF;#87CEFA;#4682B4;#0000FF;#1E90FF;#00BFFF" dur="4s"
+                    repeatCount="indefinite" />
+            </stop>
+            <stop offset="100%" stop-color="#1E90FF">
+                <animate attributeName="stop-color"
+                    values="#87CEFA;#4682B4;#5F9EA0;#1E90FF;#00BFFF;#87CEFA" dur="4s"
+                    repeatCount="indefinite" />
+            </stop>
+        </radialGradient>
+    </defs>
+
+    <rect x="0" y="0" width="125" height="30" fill="url(#boxFill)" />
+
+    <g transform="translate(3.5, 2.7) scale(0.18)">
+        <circle cx="72" cy="68" r="68" fill="#FDFDFD" />
+        <circle cx="72" cy="68" r="65" fill="#009DAA" />
+        <path
+            d="M37.5998 81H31.8327L40.62 55.5455H47.5554L56.3303 81H50.5632L44.1871 61.3622H43.9883L37.5998 81ZM37.2393 70.9947H50.8615V75.1957H37.2393V70.9947ZM59.394 81V55.5455H69.4366C71.359 55.5455 72.9996 55.8893 74.3585 56.5771C75.7257 57.2565 76.7656 58.2218 77.4782 59.473C78.199 60.7159 78.5595 62.1784 78.5595 63.8604C78.5595 65.5508 78.1949 67.005 77.4657 68.223C76.7366 69.4328 75.6801 70.3608 74.2963 71.0071C72.9209 71.6534 71.2554 71.9766 69.2999 71.9766H62.5758V67.6513H68.4299C69.4573 67.6513 70.3108 67.5104 70.9902 67.2287C71.6697 66.947 72.1751 66.5244 72.5066 65.9609C72.8463 65.3975 73.0162 64.6973 73.0162 63.8604C73.0162 63.0153 72.8463 62.3027 72.5066 61.7227C72.1751 61.1426 71.6655 60.7035 70.9778 60.4052C70.2984 60.0986 69.4408 59.9453 68.405 59.9453H64.7757V81H59.394ZM73.1404 69.4162L79.4668 81H73.5257L67.3361 69.4162H73.1404ZM82.3627 55.5455H88.9998L96.0098 72.6477H96.3081L103.318 55.5455H109.955V81H104.735V64.4322H104.524L97.9363 80.8757H94.3816L87.7942 64.37H87.5829V81H82.3627V55.5455Z"
+            fill="white" />
+    </g>
+    <defs>
+        <filter id="filter0_d_4_9" x="0" y="0" width="144" height="144" filterUnits="userSpaceOnUse"
+            color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feColorMatrix in="SourceAlpha" type="matrix"
+                values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
+            <feOffset dy="4" />
+            <feGaussianBlur stdDeviation="2" />
+            <feComposite in2="hardAlpha" operator="out" />
+            <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0" />
+            <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_4_9" />
+            <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_4_9" result="shape" />
+        </filter>
+    </defs>
+
+    <text transform="scale(0.1)" x="560" y="215" fill="#fff" font-size="185" font-weight="600"
+        font-family="Tahoma, Geneva, sans-serif">
+        ARM
+    </text>
+</svg>
