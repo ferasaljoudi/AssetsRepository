@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="125"
+    height="30" role="img" aria-label="JAVA">
+    <title>VHDL</title>
+
+    <defs>
+        <radialGradient id="boxFill" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+            <stop offset="0%" stop-color="#0000FF">
+                <animate attributeName="stop-color"
+                    values="#0000FF;#1E90FF;#00BFFF;#87CEFA;#4682B4;#0000FF" dur="4s"
+                    repeatCount="indefinite" />
+            </stop>
+            <stop offset="100%" stop-color="#1E90FF">
+                <animate attributeName="stop-color"
+                    values="#1E90FF;#00BFFF;#87CEFA;#4682B4;#5F9EA0;#1E90FF" dur="4s"
+                    repeatCount="indefinite" />
+            </stop>
+        </radialGradient>
+    </defs>
+
+    <rect x="0" y="0" width="125" height="30" fill="url(#boxFill)" />
+
+    <g transform="translate(5, 4) scale(0.01)">
+        <path d="M670 2095 l0 -155 65 0 65 0 0 155 0 155 -65 0 -65 0 0 -155z" />
+        <path d="M930 2095 l0 -155 65 0 65 0 0 155 0 155 -65 0 -65 0 0 -155z" />
+        <path d="M1200 2095 l0 -155 65 0 65 0 0 155 0 155 -65 0 -65 0 0 -155z" />
+        <path d="M1460 2095 l0 -155 65 0 65 0 0 155 0 155 -65 0 -65 0 0 -155z" />
+        <path
+            d="M485 1842 c-22 -15 -55 -50 -73 -77 l-33 -49 3 -586 c3 -649 1 -622 71 -688 31 -30 44 -35 116 -44 46 -5 308 -8 618 -6 517 3 539 4 572 23 56 33 90 84 101 151 6 33 10 298 10 604 0 536 0 546 -21 580 -28 47 -68 89 -101 106 -22 12 -129 14 -625 14 l-598 -1 -40 -27z m140 -98 c8 -4 22 -19 30 -35 35 -66 -50 -123 -107 -72 -24 21 -23 68 2 93 20 20 45 25 75 14z m865 -599 l0 -355 -355 0 -355 0 0 355 0 355 355 0 355 0 0 -355z" />
+        <path d="M0 1525 l0 -65 160 0 160 0 0 65 0 65 -160 0 -160 0 0 -65z" />
+        <path d="M1930 1525 l0 -65 160 0 160 0 0 65 0 65 -160 0 -160 0 0 -65z" />
+        <path d="M0 1265 l0 -65 160 0 160 0 0 65 0 65 -160 0 -160 0 0 -65z" />
+        <path d="M1930 1265 l0 -65 160 0 160 0 0 65 0 65 -160 0 -160 0 0 -65z" />
+        <path d="M0 995 l0 -65 160 0 160 0 0 65 0 65 -160 0 -160 0 0 -65z" />
+        <path d="M1930 995 l0 -65 160 0 160 0 0 65 0 65 -160 0 -160 0 0 -65z" />
+        <path d="M0 735 l0 -65 160 0 160 0 0 65 0 65 -160 0 -160 0 0 -65z" />
+        <path d="M1930 735 l0 -65 160 0 160 0 0 65 0 65 -160 0 -160 0 0 -65z" />
+        <path d="M670 155 l0 -155 65 0 65 0 0 155 0 155 -65 0 -65 0 0 -155z" />
+        <path d="M930 155 l0 -155 65 0 65 0 0 155 0 155 -65 0 -65 0 0 -155z" />
+        <path d="M1200 155 l0 -155 65 0 65 0 0 155 0 155 -65 0 -65 0 0 -155z" />
+        <path d="M1460 155 l0 -155 65 0 65 0 0 155 0 155 -65 0 -65 0 0 -155z" />
+    </g>
+
+    <text transform="scale(0.1)" x="500" y="217" fill="#fff" font-size="185" font-weight="600"
+        font-family="Tahoma, Geneva, sans-serif">
+        VHDL
+    </text>
+
+</svg>

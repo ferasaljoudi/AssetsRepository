@@ -27,6 +27,11 @@ The purpose of this repository is to store and manage SVG files used across mult
     <td><a href="#"><img src="Badges/Languages/Middle/python.svg" alt="Python"></a></td>
     <td><a href="#"><img src="Badges/Languages/Right/php.svg" alt="PHP"></a></td>
   </tr>
+  <tr>
+    <td><a href="#"><img src="Badges/Languages/Left/javaScript.svg" alt="JavaScript"></a></td>
+    <td><a href="#"><img src="Badges/Languages/Middle/shellScript.svg" alt="ShellScript"></a></td>
+    <td><a href="#"><img src="Badges/Languages/Right/vhdl.svg" alt="VHDL"></a></td>
+  </tr>
 </table>
 
 </div>
