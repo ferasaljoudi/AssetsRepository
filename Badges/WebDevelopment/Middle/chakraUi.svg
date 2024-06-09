@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="125"
+    height="30" role="img" aria-label="JAVA">
+    <title>CHAKRA UI</title>
+
+    <defs>
+        <radialGradient id="boxFill" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+            <stop offset="0%" stop-color="#0000FF">
+                <animate attributeName="stop-color"
+                    values="#1E90FF;#00BFFF;#87CEFA;#4682B4;#0000FF;#1E90FF" dur="4s"
+                    repeatCount="indefinite" />
+            </stop>
+            <stop offset="100%" stop-color="#1E90FF">
+                <animate attributeName="stop-color"
+                    values="#00BFFF;#87CEFA;#4682B4;#5F9EA0;#1E90FF;#00BFFF" dur="4s"
+                    repeatCount="indefinite" />
+            </stop>
+        </radialGradient>
+    </defs>
+
+    <rect x="0" y="0" width="125" height="30" fill="url(#boxFill)" />
+
+    <g transform="translate(5, 3) scale(0.06)">
+        <g clip-path="url(#clip0_1_2)">
+            <circle cx="200" cy="200" r="200" fill="#52C8C5" />
+            <path
+                d="M196.5 174H294H298.5L135.5 324C135.5 324 133.824 324.781 132.75 324C131.676 323.219 132 321.5 132 321.5L209 214H101.5L244.7 72.75C244.7 72.75 247.481 71.8713 248.75 72.75C250.019 73.6287 250 77 250 77L196.5 174Z"
+                fill="white" stroke="white" />
+        </g>
+        <defs>
+            <clipPath id="clip0_1_2">
+                <rect width="400" height="400" fill="white" />
+            </clipPath>
+        </defs>
+    </g>
+
+    <text transform="scale(0.1)" x="365" y="205" fill="#fff" font-size="140" font-weight="600"
+        font-family="Tahoma, Geneva, sans-serif">
+        CHAKRA UI
+    </text>
+</svg>
