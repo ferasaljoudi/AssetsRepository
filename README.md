@@ -22,16 +22,22 @@ The purpose of this repository is to store and manage SVG files used across mult
       <a href="#"><img src="Badges/WebDevelopment/Left/vue.svg" alt="Vue"></a>
       <br>
       <a href="#"><img src="Badges/WebDevelopment/Left/bootstrap.svg" alt="Bootstrap"></a>
+      <br>
+      <a href="#"><img src="Badges/WebDevelopment/Left/githubPages.svg" alt="Github Pages"></a>
     </td>
     <td>
       <a href="#"><img src="Badges/WebDevelopment/Middle/react.svg" alt="React"></a>
       <br>
       <a href="#"><img src="Badges/WebDevelopment/Middle/chakraUi.svg" alt="Chakra UI"></a>
+      <br>
+      <a href="#"><img src="Badges/WebDevelopment/Middle/wordpress.svg" alt="Wordpress"></a>
     </td>
     <td>
       <a href="#"><img src="Badges/WebDevelopment/Right/nodeJs.svg" alt="Node.js"></a>
       <br>
       <a href="#"><img src="Badges/WebDevelopment/Right/springBoot.svg" alt="Spring Boot">
+      <br>
+      <a href="#"><img src="Badges/WebDevelopment/Right/figma.svg" alt="Figma">
     </td>
   </tr>
 </table>
