@@ -19,25 +19,19 @@ The purpose of this repository is to store and manage SVG files used across mult
 <table>
   <tr>
     <td>
-      <a href="#"><img src="Badges/WebDevelopment/Left/vue.svg" alt="Vue"></a>
-      <br>
-      <a href="#"><img src="Badges/WebDevelopment/Left/bootstrap.svg" alt="Bootstrap"></a>
-      <br>
-      <a href="#"><img src="Badges/WebDevelopment/Left/githubPages.svg" alt="Github Pages"></a>
+      <a href="#"><img src="Badges/MachineLearning/Left/pandas.svg" alt="Pandas"></a>
+      <!-- <br>
+      <a href="#"><img src="Badges/MachineLearning/Left/bootstrap.svg" alt="Bootstrap"></a> -->
     </td>
     <td>
-      <a href="#"><img src="Badges/WebDevelopment/Middle/react.svg" alt="React"></a>
-      <br>
-      <a href="#"><img src="Badges/WebDevelopment/Middle/chakraUi.svg" alt="Chakra UI"></a>
-      <br>
-      <a href="#"><img src="Badges/WebDevelopment/Middle/wordpress.svg" alt="Wordpress"></a>
+      <a href="#"><img src="Badges/MachineLearning/Middle/react.svg" alt="React"></a>
+      <!-- <br>
+      <a href="#"><img src="Badges/MachineLearning/Middle/chakraUi.svg" alt="Chakra UI"></a> -->
     </td>
     <td>
-      <a href="#"><img src="Badges/WebDevelopment/Right/nodeJs.svg" alt="Node.js"></a>
-      <br>
-      <a href="#"><img src="Badges/WebDevelopment/Right/springBoot.svg" alt="Spring Boot">
-      <br>
-      <a href="#"><img src="Badges/WebDevelopment/Right/figma.svg" alt="Figma">
+      <a href="#"><img src="Badges/MachineLearning/Right/pytorch.svg" alt="Pytorch"></a>
+      <!-- <br>
+      <a href="#"><img src="Badges/MachineLearning/Right/springBoot.svg" alt="Spring Boot"> -->
     </td>
   </tr>
 </table>

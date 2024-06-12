@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="125"
+    height="30" role="img" aria-label="JAVA">
+    <title>PANDAS</title>
+
+    <defs>
+        <radialGradient id="boxFill" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+            <stop offset="0%" stop-color="#0000FF">
+                <animate attributeName="stop-color"
+                    values="#00BFFF;#87CEFA;#4682B4;#0000FF;#1E90FF;#00BFFF" dur="4s"
+                    repeatCount="indefinite" />
+            </stop>
+            <stop offset="100%" stop-color="#1E90FF">
+                <animate attributeName="stop-color"
+                    values="#87CEFA;#4682B4;#5F9EA0;#1E90FF;#00BFFF;#87CEFA" dur="4s"
+                    repeatCount="indefinite" />
+            </stop>
+        </radialGradient>
+    </defs>
+
+    <style xmlns="http://www.w3.org/2000/svg">
+        .cls-1{fill:#130754;}.cls-2{fill:#ffca00;}.cls-3{fill:#e70488;}</style>
+
+    <rect x="0" y="0" width="125" height="30" fill="url(#boxFill)" />
+
+    <g transform="translate(8, -1.2) scale(0.1)">
+        <rect xmlns="http://www.w3.org/2000/svg" class="cls-1" x="74.88" y="68.42" width="24.09"
+            height="50.02" />
+        <rect xmlns="http://www.w3.org/2000/svg" class="cls-1" x="74.88" y="171.17" width="24.09"
+            height="50.02" />
+        <rect xmlns="http://www.w3.org/2000/svg" class="cls-2" x="74.88" y="133.04" width="24.09"
+            height="23.6" />
+        <rect xmlns="http://www.w3.org/2000/svg" class="cls-1" x="36.19" y="109.55" width="24.09"
+            height="166.27" />
+        <rect xmlns="http://www.w3.org/2000/svg" class="cls-1" x="112.78" y="212.44" width="24.09"
+            height="50.02" />
+        <rect xmlns="http://www.w3.org/2000/svg" class="cls-1" x="112.78" y="109.61" width="24.09"
+            height="50.02" />
+        <rect xmlns="http://www.w3.org/2000/svg" class="cls-3" x="112.78" y="174.23" width="24.09"
+            height="23.6" />
+        <rect xmlns="http://www.w3.org/2000/svg" class="cls-1" x="150.67" y="55.39" width="24.09"
+            height="166.27" />
+    </g>
+
+    <text transform="scale(0.1)" x="375" y="218" fill="#fff" font-size="180" font-weight="600"
+        font-family="Tahoma, Geneva, sans-serif">
+        PANDAS
+    </text>
+</svg>
