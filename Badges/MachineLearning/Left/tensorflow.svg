@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="125"
+    height="30" role="img" aria-label="JAVA">
+    <title>TENSORFLOW</title>
+
+    <defs>
+        <radialGradient id="boxFill" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+            <stop offset="0%" stop-color="#0000FF">
+                <animate attributeName="stop-color"
+                    values="#00BFFF;#87CEFA;#4682B4;#0000FF;#1E90FF;#00BFFF" dur="4s"
+                    repeatCount="indefinite" />
+            </stop>
+            <stop offset="100%" stop-color="#1E90FF">
+                <animate attributeName="stop-color"
+                    values="#87CEFA;#4682B4;#5F9EA0;#1E90FF;#00BFFF;#87CEFA" dur="4s"
+                    repeatCount="indefinite" />
+            </stop>
+        </radialGradient>
+    </defs>
+
+    <rect x="0" y="0" width="125" height="30" fill="url(#boxFill)" />
+
+    <g transform="translate(5, 5) scale(0.6)">
+        <g xmlns="http://www.w3.org/2000/svg" transform="translate(-77.942529,-177.00005)"
+            id="layer1">
+            <g id="g4550">
+                <path style="fill:#e55b2d;fill-opacity:1"
+                    d="m 360.04883,687.87305 v 18.89843 l 32.73047,18.89844 v -18.89844 z m -65.46289,18.89843 v 18.89844 l 16.36523,9.44727 V 716.2207 Z m 49.0957,9.44922 -16.36523,9.44922 v 56.69141 l 16.36523,9.44922 v -37.79493 l 16.36719,9.44922 v -18.89843 l -16.36719,-9.44922 z"
+                    transform="scale(0.26458333)" id="path4508" />
+                <path style="fill:#ed8e24;fill-opacity:1"
+                    d="m 360.04883,687.87305 -49.09766,28.34765 v 18.89649 l 32.73047,-18.89649 v 18.89649 l 16.36719,-9.44727 z m 49.09765,9.44922 -16.36718,9.44921 v 18.89844 l 16.36718,-9.44922 z m -32.73242,37.79492 -16.36523,9.44922 v 18.89843 l 16.36523,-9.44922 z m -16.36523,28.34765 -16.36719,-9.44922 v 37.79493 l 16.36719,-9.44922 z"
+                    transform="scale(0.26458333)" id="path4491" />
+                <path style="fill:#f8bf3c;fill-opacity:1"
+                    d="m 360.04883,668.97656 -65.46289,37.79492 16.36523,9.44922 49.09766,-28.34765 32.73047,18.89843 16.36718,-9.44921 z m 0,56.69336 -16.36719,9.44727 16.36719,9.44922 16.36523,-9.44922 z"
+                    transform="scale(0.26458333)" id="path4506" />
+            </g>
+        </g>
+    </g>
+
+    <text transform="scale(0.1)" x="266" y="206" fill="#fff" font-size="135" font-weight="600"
+        font-family="Tahoma, Geneva, sans-serif">
+        TENSORFLOW
+    </text>
+</svg>

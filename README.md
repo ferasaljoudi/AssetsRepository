@@ -20,18 +20,18 @@ The purpose of this repository is to store and manage SVG files used across mult
   <tr>
     <td>
       <a href="#"><img src="Badges/MachineLearning/Left/pandas.svg" alt="Pandas"></a>
-      <!-- <br>
-      <a href="#"><img src="Badges/MachineLearning/Left/bootstrap.svg" alt="Bootstrap"></a> -->
+      <br>
+      <a href="#"><img src="Badges/MachineLearning/Left/tensorflow.svg" alt="Tensorflow"></a>
     </td>
     <td>
-      <a href="#"><img src="Badges/MachineLearning/Middle/react.svg" alt="React"></a>
-      <!-- <br>
-      <a href="#"><img src="Badges/MachineLearning/Middle/chakraUi.svg" alt="Chakra UI"></a> -->
+      <a href="#"><img src="Badges/MachineLearning/Middle/numpy.svg" alt="Numpy"></a>
+      <br>
+      <a href="#"><img src="Badges/MachineLearning/Middle/keras.svg" alt="Keras"></a>
     </td>
     <td>
-      <a href="#"><img src="Badges/MachineLearning/Right/pytorch.svg" alt="Pytorch"></a>
-      <!-- <br>
-      <a href="#"><img src="Badges/MachineLearning/Right/springBoot.svg" alt="Spring Boot"> -->
+      <a href="#"><img src="Badges/MachineLearning/Right/matplotlib.svg" alt="Matplotlib"></a>
+      <br>
+      <a href="#"><img src="Badges/MachineLearning/Right/pytorch.svg" alt="Pytorch">
     </td>
   </tr>
 </table>

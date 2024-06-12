@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="125"
+    height="30" role="img" aria-label="JAVA">
+    <title>MATPLOTLIB</title>
+
+    <defs>
+        <radialGradient id="boxFill" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+            <stop offset="0%" stop-color="#0000FF">
+                <animate attributeName="stop-color"
+                    values="#0000FF;#1E90FF;#00BFFF;#87CEFA;#4682B4;#0000FF" dur="4s"
+                    repeatCount="indefinite" />
+            </stop>
+            <stop offset="100%" stop-color="#1E90FF">
+                <animate attributeName="stop-color"
+                    values="#1E90FF;#00BFFF;#87CEFA;#4682B4;#5F9EA0;#1E90FF" dur="4s"
+                    repeatCount="indefinite" />
+            </stop>
+        </radialGradient>
+    </defs>
+
+    <rect x="0" y="0" width="125" height="30" fill="url(#boxFill)" />
+
+    <g transform="translate(5, 3.2) scale(0.13)">
+        <g stroke-width="2" fill="#FFF">
+            <circle cx="90" cy="90" r="88" />
+            <circle cx="90" cy="90" r="66" />
+            <circle cx="90" cy="90" r="44" />
+            <circle cx="90" cy="90" r="22" />
+            <path d="m90,2v176m62-26-124-124m124,0-124,124m150-62H2" />
+        </g>
+        <g opacity=".8">
+            <path fill="#44C" d="m90,90h18a18,18 0 0,0 0-5z" />
+            <path fill="#BC3" d="m90,90 34-43a55,55 0 0,0-15-8z" />
+            <path fill="#D93" d="m90,90-16-72a74,74 0 0,0-31,15z" />
+            <path fill="#DB3" d="m90,90-58-28a65,65 0 0,0-5,39z" />
+            <path fill="#3BB" d="m90,90-33,16a37,37 0 0,0 2,5z" />
+            <path fill="#3C9" d="m90,90-10,45a46,46 0 0,0 18,0z" />
+            <path fill="#D73" d="m90,90 46,58a74,74 0 0,0 12-12z" />
+        </g>
+    </g>
+
+    <text transform="scale(0.1)" x="320" y="203" fill="#fff" font-size="137" font-weight="600"
+        font-family="Tahoma, Geneva, sans-serif">
+        MATPLOTLIB
+    </text>
+</svg>
