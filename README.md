@@ -23,11 +23,11 @@ The purpose of this repository is to store and manage SVG files used across mult
       <br>
     </td>
     <td>
-      <a href="#"><img src="Badges/Hardware/Middle/raspberryPi.svg" alt="Numpy"></a>
+      <a href="#"><img src="Badges/Hardware/Middle/basys3.svg" alt="Basys3"></a>
       <br>
     </td>
     <td>
-      <a href="#"><img src="Badges/Hardware/Right/basys3.svg" alt="Matplotlib"></a>
+      <a href="#"><img src="Badges/Hardware/Right/raspberryPi.svg" alt="ASPBERRY PI"></a>
       <br>
     </td>
   </tr>
