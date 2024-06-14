@@ -19,15 +19,15 @@ The purpose of this repository is to store and manage SVG files used across mult
 <table>
   <tr>
     <td>
-      <a href="#"><img src="Badges/Hardware/Left/stm32.svg" alt="Stm32"></a>
+      <a href="#"><img src="Badges/Databases/Left/firebase.svg" alt="Firebase"></a>
       <br>
     </td>
     <td>
-      <a href="#"><img src="Badges/Hardware/Middle/basys3.svg" alt="Basys3"></a>
+      <a href="#"><img src="Badges/Databases/Middle/mongoDb.svg" alt="MongoDB"></a>
       <br>
     </td>
     <td>
-      <a href="#"><img src="Badges/Hardware/Right/raspberryPi.svg" alt="ASPBERRY PI"></a>
+      <a href="#"><img src="Badges/Databases/Right/mySql.svg" alt="MySQL"></a>
       <br>
     </td>
   </tr>
