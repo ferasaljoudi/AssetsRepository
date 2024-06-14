@@ -19,19 +19,16 @@ The purpose of this repository is to store and manage SVG files used across mult
 <table>
   <tr>
     <td>
-      <a href="#"><img src="Badges/MachineLearning/Left/pandas.svg" alt="Pandas"></a>
+      <a href="#"><img src="Badges/Hardware/Left/stm32.svg" alt="Stm32"></a>
       <br>
-      <a href="#"><img src="Badges/MachineLearning/Left/tensorflow.svg" alt="Tensorflow"></a>
     </td>
     <td>
       <a href="#"><img src="Badges/MachineLearning/Middle/numpy.svg" alt="Numpy"></a>
       <br>
-      <a href="#"><img src="Badges/MachineLearning/Middle/keras.svg" alt="Keras"></a>
     </td>
     <td>
-      <a href="#"><img src="Badges/MachineLearning/Right/matplotlib.svg" alt="Matplotlib"></a>
+      <a href="#"><img src="Badges/Hardware/Right/basys3.svg" alt="Matplotlib"></a>
       <br>
-      <a href="#"><img src="Badges/MachineLearning/Right/pytorch.svg" alt="Pytorch">
     </td>
   </tr>
 </table>
