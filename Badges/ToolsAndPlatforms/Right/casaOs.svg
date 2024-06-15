@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="125"
+    height="30" role="img" aria-label="JAVA">
+    <title>CASA OS</title>
+
+    <defs>
+        <radialGradient id="boxFill" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+            <stop offset="0%" stop-color="#0000FF">
+                <animate attributeName="stop-color"
+                    values="#0000FF;#1E90FF;#00BFFF;#87CEFA;#4682B4;#0000FF" dur="4s"
+                    repeatCount="indefinite" />
+            </stop>
+            <stop offset="100%" stop-color="#1E90FF">
+                <animate attributeName="stop-color"
+                    values="#1E90FF;#00BFFF;#87CEFA;#4682B4;#5F9EA0;#1E90FF" dur="4s"
+                    repeatCount="indefinite" />
+            </stop>
+        </radialGradient>
+    </defs>
+
+    <rect x="0" y="0" width="125" height="30" fill="url(#boxFill)" />
+
+    <g transform="translate(4, 6) scale(0.1)">
+        <path xmlns="http://www.w3.org/2000/svg" fill="#4CE7FF"
+            d="M68.5 169.75C100.809 169.75 127 143.559 127 111.25C127 78.9413 100.809 52.75 68.5 52.75C36.1913 52.75 10 78.9413 10 111.25C10 143.559 36.1913 169.75 68.5 169.75Z"
+            opacity="0.95" />
+        <path xmlns="http://www.w3.org/2000/svg" fill="#0067C2"
+            d="M127 170C171.183 170 207 134.183 207 90C207 45.8172 171.183 10 127 10C82.8172 10 47 45.8172 47 90C47 134.183 82.8172 170 127 170Z"
+            opacity="0.95" />
+        <path xmlns="http://www.w3.org/2000/svg" fill="#4CE7FF"
+            d="M185.5 169.75C217.809 169.75 244 143.559 244 111.25C244 78.9413 217.809 52.75 185.5 52.75C153.191 52.75 127 78.9413 127 111.25C127 143.559 153.191 169.75 185.5 169.75Z"
+            opacity="0.95" />
+    </g>
+
+    <text transform="scale(0.1)" x="450" y="210" fill="#fff" font-size="145" font-weight="600"
+        font-family="Tahoma, Geneva, sans-serif">
+        CASA OS
+    </text>
+</svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="125"
+    height="30" role="img" aria-label="JAVA">
+    <title>DOCKER</title>
+
+    <defs>
+        <radialGradient id="boxFill" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+            <stop offset="0%" stop-color="#0000FF">
+                <animate attributeName="stop-color"
+                    values="#1E90FF;#00BFFF;#87CEFA;#4682B4;#0000FF;#1E90FF" dur="4s"
+                    repeatCount="indefinite" />
+            </stop>
+            <stop offset="100%" stop-color="#1E90FF">
+                <animate attributeName="stop-color"
+                    values="#00BFFF;#87CEFA;#4682B4;#5F9EA0;#1E90FF;#00BFFF" dur="4s"
+                    repeatCount="indefinite" />
+            </stop>
+        </radialGradient>
+    </defs>
+
+    <rect x="0" y="0" width="125" height="30" fill="url(#boxFill)" />
+
+    <g transform="translate(2, -3.5) scale(0.075)">
+        <path xmlns="http://www.w3.org/2000/svg" stroke="#066da5" stroke-width="38"
+            d="M296 226h42m-92 0h42m-91 0h42m-91 0h41m-91 0h42m8-46h41m8 0h42m7 0h42m-42-46h42" />
+        <path xmlns="http://www.w3.org/2000/svg" fill="#066da5"
+            d="m472 228s-18-17-55-11c-4-29-35-46-35-46s-29 35-8 74c-6 3-16 7-31 7H68c-5 19-5 145 133 145 99 0 173-46 208-130 52 4 63-39 63-39" />
+    </g>
+
+    <text transform="scale(0.1)" x="500" y="205" fill="#fff" font-size="145" font-weight="600"
+        font-family="Tahoma, Geneva, sans-serif">
+        DOCKER
+    </text>
+</svg>
