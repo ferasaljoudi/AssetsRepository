@@ -19,34 +19,19 @@ The purpose of this repository is to store and manage SVG files used across mult
 <table>
   <tr>
     <td>
-      <a href="#"><img src="Badges/WebDevelopment/Left/vue.svg" alt="Vue"></a>
+      <a href="#"><img src="Badges/CloudAndDatabases/Left/firebase.svg" alt="firebase"></a>
       <br>
-      <a href="#"><img src="Badges/WebDevelopment/Left/react.svg" alt="React"></a>
-      <br>
-      <a href="#"><img src="Badges/WebDevelopment/Left/springBoot.svg" alt="Spring Boot"></a>
-      <br>
-      <a href="#"><img src="Badges/WebDevelopment/Left/jquery.svg" alt="Jquery"></a>
-      <br>
+      <a href="#"><img src="Badges/CloudAndDatabases/Left/githubPages.svg" alt="githubPages"></a>
     </td>
     <td>
-      <a href="#"><img src="Badges/WebDevelopment/Middle/vite.svg" alt="vite"></a>
+      <a href="#"><img src="Badges/CloudAndDatabases/Middle/mongoDb.svg" alt="mongoDb"></a>
       <br>
-      <a href="#"><img src="Badges/WebDevelopment/Middle/bootstrap.svg" alt="Bootstrap"></a>
-      <br>
-      <a href="#"><img src="Badges/WebDevelopment/Middle/express.svg" alt="Express.js"></a>
-      <br>
-      <a href="#"><img src="Badges/WebDevelopment/Middle/wordpress.svg" alt="wordpress"></a>
-      <br>
+      <a href="#"><img src="Badges/CloudAndDatabases/Middle/aws.svg" alt="AWS"></a>
     </td>
     <td>
-      <a href="#"><img src="Badges/WebDevelopment/Right/npm.svg" alt="npm"></a>
+      <a href="#"><img src="Badges/CloudAndDatabases/Right/mySql.svg" alt="mySql"></a>
       <br>
-      <a href="#"><img src="Badges/WebDevelopment/Right/chakraUi.svg" alt="Chakra UI"></a>
-      <br>
-      <a href="#"><img src="Badges/WebDevelopment/Right/nodeJs.svg" alt="Node.js"></a>
-      <br>
-      <a href="#"><img src="Badges/WebDevelopment/Right/figma.svg" alt="figma"></a>
-      <br>
+      <a href="#"><img src="Badges/CloudAndDatabases/Right/sql.svg" alt="sql"></a>
     </td>
   </tr>
 </table>
