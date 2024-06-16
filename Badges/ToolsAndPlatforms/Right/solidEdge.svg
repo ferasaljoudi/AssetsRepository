@@ -1,29 +1,31 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="125"
-    height="30" role="img" aria-label="SOLID EDGE">
+    height="30" role="img" aria-label="JAVA">
     <title>SOLID EDGE</title>
 
     <defs>
-        <radialGradient id="borderLine" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+        <radialGradient id="boxFill" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
             <stop offset="0%" stop-color="#0000FF">
-                <animate attributeName="stop-color" values="#0000FF;#1E90FF;#00BFFF;#87CEFA;#4682B4;#0000FF" begin="6s" dur="5s" repeatCount="indefinite"/>
+                <animate attributeName="stop-color"
+                    values="#0000FF;#1E90FF;#00BFFF;#87CEFA;#4682B4;#0000FF" dur="4s"
+                    repeatCount="indefinite" />
             </stop>
             <stop offset="100%" stop-color="#1E90FF">
-                <animate attributeName="stop-color" values="#1E90FF;#00BFFF;#87CEFA;#4682B4;#5F9EA0;#1E90FF" begin="6s" dur="5s" repeatCount="indefinite"/>
+                <animate attributeName="stop-color"
+                    values="#1E90FF;#00BFFF;#87CEFA;#4682B4;#5F9EA0;#1E90FF" dur="4s"
+                    repeatCount="indefinite" />
             </stop>
         </radialGradient>
     </defs>
-    
+
+    <rect x="0" y="0" width="125" height="30" fill="url(#boxFill)" />
+
     <symbol id="solidedge" data-name="solidedge" viewBox="0 0 150 150">
         <polygon points="19.6 10.3 68.3 138.6 145.7 105.4 19.6 10.3" style="fill:#b2b2b2" />
         <polygon points="1.9 65.6 136.9 50.1 68.3 138.6 1.9 65.6" style="fill:#0078c0" />
         <polygon points="68.3 138.6 80.9 56.5 145.7 105.4 68.3 138.6" style="fill:#b2b2b2" />
     </symbol>
 
-    <g shape-rendering="crispEdges">
-        <rect width="125" height="30" fill="url(#borderLine)" />
-    </g>
-
-    <g transform="translate(2, 1) scale(0.2)">
+    <g transform="translate(5, 2.2) scale(0.2)">
         <g id="Layer_2" data-name="Layer 2">
             <g id="Layer_1-2" data-name="Layer 1">
                 <g>
@@ -34,7 +36,7 @@
         </g>
     </g>
 
-    <text transform="scale(0.09)" x="345" y="200" fill="#fff" font-size="125" font-weight="600"
+    <text transform="scale(0.1)" x="340" y="200" fill="#fff" font-size="140" font-weight="600"
         font-family="Tahoma, Geneva, sans-serif">
         SOLID EDGE
     </text>
