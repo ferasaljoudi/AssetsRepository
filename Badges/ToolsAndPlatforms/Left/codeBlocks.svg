@@ -19,7 +19,7 @@
 
     <rect x="0" y="0" width="125" height="30" fill="url(#boxFill)" />
 
-    <g transform="translate(4, 5.5) scale(0.07)">
+    <g transform="translate(4, 6) scale(0.065)">
         <path fill-rule="evenodd" clip-rule="evenodd"
             d="M0 51.518V103.018H51.5H103V51.518V0.0180054H51.5H0V51.518ZM104 53.731V103.443L120.75 119.981L137.5 136.518L137.808 103.018L138.116 69.518L121.82 36.768C112.857 18.756 105.181 4.01801 104.762 4.01801C104.343 4.01801 104 26.389 104 53.731ZM3 104.515C3 104.788 17.859 112.444 36.021 121.528L69.041 138.045L102.42 137.781L135.799 137.518L119.581 120.768L103.363 104.018H53.181C25.582 104.018 3 104.242 3 104.515Z"
             fill="#E00000" />
@@ -34,7 +34,7 @@
             fill="#FFD700" transform="translate(0, 140)" />
     </g>
 
-    <text transform="scale(0.1)" x="250" y="205" fill="#fff" font-size="130" font-weight="600"
+    <text transform="scale(0.1)" x="255" y="205" fill="#fff" font-size="127" font-weight="600"
         font-family="Tahoma, Geneva, sans-serif">
         CODE::BLOCKS
     </text>
