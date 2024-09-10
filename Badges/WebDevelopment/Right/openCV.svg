@@ -28,7 +28,7 @@
         <use xlink:href="#cv_element" x="142" y="415" fill="#01ff01" id="green" transform="rotate(240,142,415)"/>
     </g>
 
-    <text transform="scale(0.1)" x="345" y="218" fill="#fff" font-size="180" font-weight="600"
+    <text transform="scale(0.1)" x="345" y="218" fill="#fff" font-size="170" font-weight="600"
         font-family="Tahoma, Geneva, sans-serif">
         OPEN CV
     </text>
