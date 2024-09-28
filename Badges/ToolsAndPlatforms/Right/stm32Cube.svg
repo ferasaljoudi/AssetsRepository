@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="125"
+    height="30" role="img" aria-label="STM32Cube">
+    <title>STM32Cube</title>
+
+    <defs>
+        <radialGradient id="boxFill" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+            <stop offset="0%" stop-color="#0000FF">
+                <animate attributeName="stop-color"
+                    values="#0000FF;#1E90FF;#00BFFF;#87CEFA;#4682B4;#0000FF" dur="4s"
+                    repeatCount="indefinite" />
+            </stop>
+            <stop offset="100%" stop-color="#1E90FF">
+                <animate attributeName="stop-color"
+                    values="#1E90FF;#00BFFF;#87CEFA;#4682B4;#5F9EA0;#1E90FF" dur="4s"
+                    repeatCount="indefinite" />
+            </stop>
+        </radialGradient>
+    </defs>
+
+    <rect x="0" y="0" width="125" height="30" fill="url(#boxFill)" />
+
+    <g transform="translate(5, 8) scale(0.13)">
+        <path d="M29.6477 0.909088V110H0.03125V0.909088H29.6477ZM85.658 110H43.6836V0.909088H85.2319C96.4535 0.909088 106.148 3.09304 114.316 7.46094C122.519 11.7933 128.84 18.0433 133.279 26.2109C137.753 34.343 139.99 44.0909 139.99 55.4545C139.99 66.8182 137.771 76.5838 133.332 84.7514C128.893 92.8835 122.608 99.1335 114.476 103.501C106.343 107.834 96.7376 110 85.658 110ZM73.3001 84.858H84.5927C89.9904 84.858 94.5891 83.9879 98.3889 82.2479C102.224 80.5078 105.136 77.5071 107.125 73.2457C109.149 68.9844 110.161 63.054 110.161 55.4545C110.161 47.8551 109.131 41.9247 107.071 37.6633C105.047 33.402 102.064 30.4013 98.1225 28.6612C94.2163 26.9212 89.4222 26.0511 83.7404 26.0511H73.3001V84.858ZM153.693 110V0.909088H232.316V24.7727H183.31V43.5227H228.267V67.3864H183.31V86.1364H232.102V110H153.693Z" fill="white"/>
+
+    </g>
+
+    <text transform="scale(0.1)" x="450" y="190" fill="#fff" font-size="120" font-weight="600"
+        font-family="Tahoma, Geneva, sans-serif">
+        STM32Cube
+    </text>
+</svg>
