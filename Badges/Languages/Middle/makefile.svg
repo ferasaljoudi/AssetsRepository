@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="125"
+    height="30" role="img" aria-label="MAKEFILE">
+    <title>MAKEFILE</title>
+
+    <defs>
+        <radialGradient id="boxFill" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+            <stop offset="0%" stop-color="#0000FF">
+                <animate attributeName="stop-color"
+                    values="#1E90FF;#00BFFF;#87CEFA;#4682B4;#0000FF;#1E90FF" dur="4s"
+                    repeatCount="indefinite" />
+            </stop>
+            <stop offset="100%" stop-color="#1E90FF">
+                <animate attributeName="stop-color"
+                    values="#00BFFF;#87CEFA;#4682B4;#5F9EA0;#1E90FF;#00BFFF" dur="4s"
+                    repeatCount="indefinite" />
+            </stop>
+        </radialGradient>
+    </defs>
+
+    <rect x="0" y="0" width="125" height="30" fill="url(#boxFill)" />
+
+    <g transform="translate(5, 6.5) scale(0.12)">
+        <path d="M0.642045 0.54545H38.5682L78.625 98.2727H80.3295L120.386 0.54545H158.312V146H128.483V51.3267H127.276L89.6335 145.29H69.321L31.679 50.9716H30.4716V146H0.642045V0.54545Z" fill="#F15A24"/>
+    </g>
+
+    <text transform="scale(0.1)" x="325" y="210" fill="#fff" font-size="160" font-weight="600"
+        font-family="Tahoma, Geneva, sans-serif">
+        MAKEFILE
+    </text>
+</svg>
