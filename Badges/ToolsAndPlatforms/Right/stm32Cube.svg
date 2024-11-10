@@ -24,8 +24,8 @@
 
     </g>
 
-    <text transform="scale(0.1)" x="450" y="190" fill="#fff" font-size="120" font-weight="600"
+    <text transform="scale(0.1)" x="540" y="210" fill="#fff" font-size="165" font-weight="600"
         font-family="Tahoma, Geneva, sans-serif">
-        STM32Cube
+        STM32
     </text>
 </svg>
