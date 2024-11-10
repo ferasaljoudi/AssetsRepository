@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="125"
-    height="30" role="img" aria-label="JAVA">
+    height="30" role="img" aria-label="VS CODE">
     <title>VS CODE</title>
 
     <defs>
@@ -77,8 +77,8 @@
         </defs>
     </g>
 
-    <text transform="scale(0.1)" x="450" y="210" fill="#fff" font-size="145" font-weight="600"
+    <text transform="scale(0.1)" x="410" y="210" fill="#fff" font-size="170" font-weight="600"
         font-family="Tahoma, Geneva, sans-serif">
-        VS CODE
+        VS Code
     </text>
 </svg>

@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="125"
-    height="30" role="img" aria-label="JAVA">
+    height="30" role="img" aria-label="CODE::BLOCKS">
     <title>CODE::BLOCKS</title>
 
     <defs>
@@ -34,8 +34,8 @@
             fill="#FFD700" transform="translate(0, 140)" />
     </g>
 
-    <text transform="scale(0.1)" x="255" y="205" fill="#fff" font-size="127" font-weight="600"
+    <text transform="scale(0.1)" x="260" y="205" fill="#fff" font-size="165" font-weight="600"
         font-family="Tahoma, Geneva, sans-serif">
-        CODE::BLOCKS
+        Code:Block
     </text>
 </svg>

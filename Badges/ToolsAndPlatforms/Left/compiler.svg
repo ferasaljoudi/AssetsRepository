@@ -27,8 +27,8 @@
         <path fill-rule="evenodd" clip-rule="evenodd" d="M61.0013 74.5V82H98.0013H135.001V74.5V67H98.0013H61.0013V74.5ZM134.001 74.5V81H98.0013H62.0013V74.5V68H98.0013H134.001V74.5ZM134.337 122C134.337 126.125 134.514 127.813 134.729 125.75C134.945 123.688 134.945 120.313 134.729 118.25C134.514 116.188 134.337 117.875 134.337 122Z" fill="#EBEBEB"/>
     </g>
 
-    <text transform="scale(0.1)" x="325" y="205" fill="#fff" font-size="160" font-weight="600"
+    <text transform="scale(0.1)" x="370" y="205" fill="#fff" font-size="170" font-weight="600"
         font-family="Tahoma, Geneva, sans-serif">
-        COMPILER
+        Compiler
     </text>
 </svg>
