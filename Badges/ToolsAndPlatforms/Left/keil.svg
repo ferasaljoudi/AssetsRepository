@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="125"
-    height="30" role="img" aria-label="JAVA">
+    height="30" role="img" aria-label="KEIL uVISION">
     <title>KEIL uVISION</title>
 
     <defs>
@@ -19,7 +19,7 @@
 
     <rect x="0" y="0" width="125" height="30" fill="url(#boxFill)" />
 
-    <g transform="translate(4, 1) scale(0.045)">
+    <g transform="translate(5, -0.5) scale(0.05)">
         <g width="443" height="536" viewBox="0 0 443 536" fill="none">
             <path
                 d="M50 97H393C417.853 97 438 117.147 438 142V486C438 510.853 417.853 531 393 531H232.655H50C25.1472 531 5 510.853 5 486V142C5 117.147 25.1472 97 50 97Z"
@@ -48,8 +48,8 @@
         </g>
     </g>
 
-    <text transform="scale(0.1)" x="263" y="205" fill="#fff" font-size="135" font-weight="600"
+    <text transform="scale(0.1)" x="363" y="205" fill="#fff" font-size="165" font-weight="600"
         font-family="Tahoma, Geneva, sans-serif">
-        KEIL uVISION
+        KEIL uVI.
     </text>
 </svg>
