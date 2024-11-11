@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="125"
-    height="30" role="img" aria-label="SOLID EDGE">
-    <title>SOLID EDGE</title>
+    height="30" role="img" aria-label="Solid Edge">
+    <title>Solid Edge</title>
 
     <defs>
         <radialGradient id="boxFill" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
@@ -25,7 +25,7 @@
         <polygon points="68.3 138.6 80.9 56.5 145.7 105.4 68.3 138.6" style="fill:#b2b2b2" />
     </symbol>
 
-    <g transform="translate(5, 2.2) scale(0.2)">
+    <g transform="translate(4, 2.2) scale(0.2)">
         <g id="Layer_2" data-name="Layer 2">
             <g id="Layer_1-2" data-name="Layer 1">
                 <g>
@@ -36,8 +36,8 @@
         </g>
     </g>
 
-    <text transform="scale(0.1)" x="340" y="200" fill="#fff" font-size="140" font-weight="600"
+    <text transform="scale(0.1)" x="340" y="215" fill="#fff" font-size="160" font-weight="600"
         font-family="Tahoma, Geneva, sans-serif">
-        SOLID EDGE
+        Solid Edge
     </text>
 </svg>

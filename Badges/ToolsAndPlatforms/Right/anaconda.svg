@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="125"
-    height="30" role="img" aria-label="ANACONDA">
-    <title>ANACONDA</title>
+    height="30" role="img" aria-label="Anaconda">
+    <title>Anaconda</title>
 
     <defs>
         <radialGradient id="boxFill" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
@@ -25,8 +25,8 @@
             fill="#3eb049" />
     </g>
 
-    <text transform="scale(0.1)" x="350" y="205" fill="#fff" font-size="145" font-weight="600"
+    <text transform="scale(0.1)" x="360" y="205" fill="#fff" font-size="165" font-weight="600"
         font-family="Tahoma, Geneva, sans-serif">
-        ANACONDA
+        Anaconda
     </text>
 </svg>

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="125"
-    height="30" role="img" aria-label="NOTION">
-    <title>NOTION</title>
+    height="30" role="img" aria-label="Notion">
+    <title>Notion</title>
 
     <defs>
         <radialGradient id="boxFill" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
@@ -28,8 +28,8 @@
             fill="#000" />
     </g>
 
-    <text transform="scale(0.1)" x="465" y="200" fill="#fff" font-size="145" font-weight="600"
+    <text transform="scale(0.1)" x="485" y="215" fill="#fff" font-size="170" font-weight="600"
         font-family="Tahoma, Geneva, sans-serif">
-        NOTION
+        Notion
     </text>
 </svg>

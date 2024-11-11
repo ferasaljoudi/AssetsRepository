@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="125"
-    height="30" role="img" aria-label="G. COLAB">
-    <title>G. COLAB</title>
+    height="30" role="img" aria-label="Google Colab">
+    <title>Google Colab</title>
 
     <defs>
         <radialGradient id="boxFill" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
@@ -19,12 +19,12 @@
 
     <rect x="0" y="0" width="125" height="30" fill="url(#boxFill)" />
 
-    <g transform="translate(5, 1.5) scale(0.8)">
+    <g transform="translate(5, 1.6) scale(0.8)">
         <image id="image0_44_79" width="36" height="36" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAMAAADW3miqAAABS2lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4KPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxMzggNzkuMTU5ODI0LCAyMDE2LzA5LzE0LTAxOjA5OjAxICAgICAgICAiPgogPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4KICA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIi8+CiA8L3JkZjpSREY+CjwveDp4bXBtZXRhPgo8P3hwYWNrZXQgZW5kPSJyIj8+IEmuOgAAAARnQU1BAACxjwv8YQUAAAABc1JHQgCuzhzpAAABblBMVEUAAADylwLncgnmbgnncQrocArncQnocQrncAnsfwflcgz4qwDocAr4qwD4qgD5qgD/rwD6qgD3pwD5qgD4qgD4qgDncAr5qwDylwL4qwD5qwD3qgD4rAD4qgDncwfmbwj4qgDobgv5rQDncQrncQn5qgDylAT4qwDpbwr6qwD/qgD6rQD5qwD4qgD0rQD5qgD4qgD4qwD4qwD6qgD4pwDkbw3ocQvncAr5qgD4qgD/nwD5qwD5qgDocAnncAr6qwD4qgDncAn5qwD3pwDsggf2qgDmbwrocArpcQfmcAn4qgDqcgbzrQDncQrtgAf4qgDocQnzpgDncQv5qwDncgr5qgD4qwD4qwD6qgDocArscQnmcwr4qgDncAnpcgjocAr4qgDncAnpcQr4qwD5qwDtgwf5qwD5qwDncAr5qgD5qgD4rAD5qgD5qwD5qwDncQr6qwDocAr5qwD//wD5qwD5qgD5qgD4qgD5qwDocQqXxNSLAAAAeHRSTlMAzlU185HP9bzOKPD09PW8EDMgMMXNjYnM7lUhKMchPvguMvqbiLbJMD0JOGX7GeCjSfo2Jict5I7yCOK/iP1oc/IrI7YeSZMkVNAmFo7MJ80XQYRM5vGVPPcbM3LwPJVU0Ej5k7DoksVjYUq11YFjNPnYAWKCuE52zaMDAAABTElEQVQ4y+2T5VvDMBDGQ2fttJ3gNhgwYLjrcHd3d3eS/57m0mbpKB/4vvdLnvfu91ySywWhnJiqasp8lUV11xqzO9tzAdwX69UEpDSETUUjCEWi3IaWTaY4iDN6RLfngg2eMEYqFIL4PoUtWpIo4/WQvEzsoaPJwijE49UhmRCdChTUhxuffO2dMchtHowtaOtbOkOIjJCDUNWWwM7Nd23ADKpgwxOQdCAXXfzl5iVaKTOgGm5ml2ZdyE2XfN6NFgqluZ2mWTdy0qXCDDbAbpMcmqJZJ4Jd582gClA/h5KQtq00zqENVsnuTCPcJtiZ7G53tWq47mp2O2ufPlifLvfAxnuMPokd/zQ6rpDDobX4WQLq0I5nvd2X/nYKEQVvlzUF3ykrMyzZzNPb+/OrWGf2j8lM3nBG7vo94xcvzB4dn/rJ6Mrifu73/0c/UFC8163YVYoAAAAASUVORK5CYII="/>
     </g>
 
-    <text transform="scale(0.1)" x="400" y="210" fill="#fff" font-size="165" font-weight="600"
+    <text transform="scale(0.1)" x="430" y="215" fill="#fff" font-size="170" font-weight="600"
         font-family="Tahoma, Geneva, sans-serif">
-        G. COLAB
+        G. Colab
     </text>
 </svg>
