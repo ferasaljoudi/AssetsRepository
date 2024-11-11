@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="125"
-    height="30" role="img" aria-label="BASYS-3">
-    <title>BASYS-3</title>
+    height="30" role="img" aria-label="Basys-3">
+    <title>Basys-3</title>
 
     <defs>
         <radialGradient id="boxFill" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
@@ -28,8 +28,8 @@
             fill="#9d2c4c" />
     </g>
 
-    <text transform="scale(0.1)" x="380" y="217" fill="#fff" font-size="185" font-weight="600"
+    <text transform="scale(0.1)" x="430" y="217" fill="#fff" font-size="170" font-weight="600"
         font-family="Tahoma, Geneva, sans-serif">
-        BASYS-3
+        Basys-3
     </text>
 </svg>

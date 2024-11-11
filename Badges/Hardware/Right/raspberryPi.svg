@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="125"
-    height="30" role="img" aria-label="RASPBERRY PI">
-    <title>RASPBERRY PI</title>
+    height="30" role="img" aria-label="Raspberry Pi">
+    <title>Raspberry Pi</title>
 
     <defs>
         <radialGradient id="boxFill" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
@@ -53,8 +53,8 @@
             d="m405.02,516.21c-25.187,29.502-39.212,83.31-20.838,100.64,17.568,13.464,64.729,11.582,99.566-36.756,25.296-32.465,16.82-86.682,2.3708-101.08-21.464-16.602-52.277,4.6449-81.099,37.188z" />
     </g>
 
-    <text transform="scale(0.1)" x="245" y="205" fill="#fff" font-size="130" font-weight="600"
+    <text transform="scale(0.1)" x="260" y="210" fill="#fff" font-size="155" font-weight="600"
         font-family="Tahoma, Geneva, sans-serif">
-        RASPBERRY PI
+        RaspberryPi
     </text>
 </svg>
