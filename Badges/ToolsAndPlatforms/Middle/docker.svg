@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="125"
-    height="30" role="img" aria-label="JAVA">
+    height="30" role="img" aria-label="DOCKER">
     <title>DOCKER</title>
 
     <defs>
@@ -26,8 +26,8 @@
             d="m472 228s-18-17-55-11c-4-29-35-46-35-46s-29 35-8 74c-6 3-16 7-31 7H68c-5 19-5 145 133 145 99 0 173-46 208-130 52 4 63-39 63-39" />
     </g>
 
-    <text transform="scale(0.1)" x="500" y="205" fill="#fff" font-size="145" font-weight="600"
+    <text transform="scale(0.1)" x="490" y="205" fill="#fff" font-size="170" font-weight="600"
         font-family="Tahoma, Geneva, sans-serif">
-        DOCKER
+        Docker
     </text>
 </svg>

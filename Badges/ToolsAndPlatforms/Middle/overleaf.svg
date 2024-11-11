@@ -31,8 +31,8 @@
         <path fill-rule="evenodd" clip-rule="evenodd" d="M29 269.282C29 269.489 29.788 270.277 30.75 271.032C32.336 272.275 32.371 272.24 31.128 270.654C29.821 268.988 29 268.459 29 269.282Z" fill="#339933"/>
     </g>
 
-    <text transform="scale(0.1)" x="355" y="205" fill="#fff" font-size="150" font-weight="600"
+    <text transform="scale(0.1)" x="360" y="210" fill="#fff" font-size="170" font-weight="600"
         font-family="Tahoma, Geneva, sans-serif">
-        OVERLEAF
+        Overleaf
     </text>
 </svg>

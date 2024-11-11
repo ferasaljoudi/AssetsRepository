@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="125"
-    height="30" role="img" aria-label="JAVA">
+    height="30" role="img" aria-label="QtSpim">
     <title>QtSpim</title>
 
     <defs>
@@ -264,8 +264,8 @@
         " />
     </g>
 
-    <text transform="scale(0.1)" x="500" y="190" fill="#fff" font-size="140" font-weight="600"
+    <text transform="scale(0.1)" x="440" y="200" fill="#fff" font-size="170" font-weight="600"
         font-family="Tahoma, Geneva, sans-serif">
-        QtSPIM
+        QtSpim
     </text>
 </svg>
