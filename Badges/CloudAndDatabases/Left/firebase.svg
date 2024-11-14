@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="125"
-    height="30" role="img" aria-label="FIREBASE">
-    <title>FIREBASE</title>
+    height="30" role="img" aria-label="Firebase">
+    <title>Firebase</title>
 
     <defs>
         <radialGradient id="boxFill" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
@@ -19,7 +19,7 @@
 
     <rect x="0" y="0" width="125" height="30" fill="url(#boxFill)" />
 
-    <g transform="translate(2, 3) scale(0.17)">
+    <g transform="translate(2, 2.3) scale(0.18)">
         <path xmlns="http://www.w3.org/2000/svg" fill="#ffa000"
             d="M23.8333 111.7187L39.9655 8.4906c.1972-1.266 1.1818-2.264 2.445-2.4786s2.522.4028 3.126 1.5327L62.22 38.662l6.65-12.6615c.515-.979 1.5303-1.592 2.6366-1.592s2.1215.613 2.6366 1.592l45.0227 85.718H23.8333z" />
         <path xmlns="http://www.w3.org/2000/svg" fill="#f57c00"
@@ -32,8 +32,8 @@
             d="M75.6708 135.1722c-2.708 1.512-6.006 1.512-8.714 0L23.9376 111.056l-.1043.663 43.1234 24.176c2.708 1.512 6.006 1.512 8.714 0l43.4958-24.176-.1117-.6852-43.384 24.1387z" />
     </g>
 
-    <text transform="scale(0.1)" x="385" y="205" fill="#fff" font-size="140" font-weight="600"
+    <text transform="scale(0.1)" x="370" y="215" fill="#fff" font-size="170" font-weight="600"
         font-family="Tahoma, Geneva, sans-serif">
-        FIREBASE
+        Firebase
     </text>
 </svg>
