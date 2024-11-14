@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="125"
-    height="30" role="img" aria-label="MONGODB">
-    <title>MONGODB</title>
+    height="30" role="img" aria-label="MongoDB">
+    <title>MongoDB</title>
 
     <defs>
         <radialGradient id="boxFill" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
@@ -26,8 +26,8 @@
             style="fill:#fff" />
     </g>
 
-    <text transform="scale(0.1)" x="390" y="205" fill="#fff" font-size="140" font-weight="600"
+    <text transform="scale(0.1)" x="360" y="212" fill="#fff" font-size="165" font-weight="600"
         font-family="Tahoma, Geneva, sans-serif">
-        MONGODB
+        MongoDB
     </text>
 </svg>
