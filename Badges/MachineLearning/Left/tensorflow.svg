@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="125"
-    height="30" role="img" aria-label="JAVA">
-    <title>TENSORFLOW</title>
+    height="30" role="img" aria-label="TensorFlow">
+    <title>TensorFlow</title>
 
     <defs>
         <radialGradient id="boxFill" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
@@ -19,7 +19,7 @@
 
     <rect x="0" y="0" width="125" height="30" fill="url(#boxFill)" />
 
-    <g transform="translate(5, 5) scale(0.6)">
+    <g transform="translate(4.5, 5.5) scale(0.58)">
         <g xmlns="http://www.w3.org/2000/svg" transform="translate(-77.942529,-177.00005)"
             id="layer1">
             <g id="g4550">
@@ -36,8 +36,8 @@
         </g>
     </g>
 
-    <text transform="scale(0.1)" x="266" y="206" fill="#fff" font-size="135" font-weight="600"
+    <text transform="scale(0.1)" x="276" y="210" fill="#fff" font-size="160" font-weight="600"
         font-family="Tahoma, Geneva, sans-serif">
-        TENSORFLOW
+        TensorFlow
     </text>
 </svg>
