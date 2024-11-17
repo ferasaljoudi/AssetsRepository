@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="125"
-    height="30" role="img" aria-label="JAVA">
-    <title>NUMPY</title>
+    height="30" role="img" aria-label="NumPy">
+    <title>NumPy</title>
 
     <defs>
         <radialGradient id="boxFill" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
@@ -21,7 +21,7 @@
 
     <rect x="0" y="0" width="125" height="30" fill="url(#boxFill)" />
 
-    <g transform="translate(0.5, -2.5) scale(0.11)">
+    <g transform="translate(0.5, -3.4) scale(0.115)">
         <polygon xmlns="http://www.w3.org/2000/svg" class="cls-2"
             points="132.38 96.4 95.25 77.66 54.49 98 92.63 117.15 132.38 96.4" />
         <polygon xmlns="http://www.w3.org/2000/svg" class="cls-2"
@@ -42,8 +42,8 @@
             d="M140.64,158.4l-29.38-14.78v63.84S75.32,131,72,124.13c-.43-.89-2.19-1.86-2.64-2.1C62.88,118.65,44,109.09,44,109.09V221.92l26.12,14v-59s35.55,68.32,35.92,69.07,3.92,7.94,7.74,10.47c5.07,3.37,26.84,16.46,26.84,16.46Z" />
     </g>
 
-    <text transform="scale(0.1)" x="420" y="218" fill="#fff" font-size="180" font-weight="600"
+    <text transform="scale(0.1)" x="460" y="215" fill="#fff" font-size="170" font-weight="600"
         font-family="Tahoma, Geneva, sans-serif">
-        NUMPY
+        NumPy
     </text>
 </svg>
