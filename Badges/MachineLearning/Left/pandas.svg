@@ -22,7 +22,7 @@
 
     <rect x="0" y="0" width="125" height="30" fill="url(#boxFill)" />
 
-    <g transform="translate(8, -1.2) scale(0.1)">
+    <g transform="translate(3, -2.8) scale(0.11)">
         <rect xmlns="http://www.w3.org/2000/svg" class="cls-1" x="74.88" y="68.42" width="24.09"
             height="50.02" />
         <rect xmlns="http://www.w3.org/2000/svg" class="cls-1" x="74.88" y="171.17" width="24.09"
@@ -41,7 +41,7 @@
             height="166.27" />
     </g>
 
-    <text transform="scale(0.1)" x="430" y="215" fill="#fff" font-size="170" font-weight="600"
+    <text transform="scale(0.1)" x="425" y="215" fill="#fff" font-size="170" font-weight="600"
         font-family="Tahoma, Geneva, sans-serif">
         Pandas
     </text>
