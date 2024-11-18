@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="125"
-    height="30" role="img" aria-label="JAVA">
-    <title>SPRING BOOT</title>
+    height="30" role="img" aria-label="Spring Boot">
+    <title>Spring Boot</title>
 
     <defs>
         <radialGradient id="boxFill" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
@@ -19,7 +19,7 @@
 
     <rect x="0" y="0" width="125" height="30" fill="url(#boxFill)" />
 
-    <g transform="translate(5, 4.2) scale(0.06)">
+    <g transform="translate(4, 4.6) scale(0.058)">
         <path
             d="M358 179.5C358 278.635 277.359 358 178.5 358C79.641 358 0 278.635 0 179.5C0 80.3649 80.141 0 179 0C277.859 0 358 80.3649 358 179.5Z"
             fill="white" />
@@ -30,8 +30,8 @@
             fill="white" />
     </g>
 
-    <text transform="scale(0.1)" x="290" y="205" fill="#fff" font-size="130" font-weight="600"
+    <text transform="scale(0.1)" x="280" y="205" fill="#fff" font-size="156" font-weight="600"
         font-family="Tahoma, Geneva, sans-serif">
-        SPRING BOOT
+        Spring Boot
     </text>
 </svg>
