@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="125"
-    height="30" role="img" aria-label="JAVA">
-    <title>VUE.JS</title>
+    height="30" role="img" aria-label="Vue.js">
+    <title>Vue.js</title>
 
     <defs>
         <radialGradient id="boxFill" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
@@ -24,8 +24,8 @@
         <path d="m0 0-22.669-39.264-22.669 39.264h-36.227l58.896-102.01 58.896 102.01z" fill="#34495e"/>
     </g>
 
-    <text transform="scale(0.1)" x="450" y="218" fill="#fff" font-size="180" font-weight="600"
+    <text transform="scale(0.1)" x="495" y="212" fill="#fff" font-size="170" font-weight="600"
         font-family="Tahoma, Geneva, sans-serif">
-        VUE.JS
+        Vue.js
     </text>
 </svg>
