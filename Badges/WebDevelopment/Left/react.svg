@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="125"
-    height="30" role="img" aria-label="JAVA">
-    <title>REACT</title>
+    height="30" role="img" aria-label="React">
+    <title>React</title>
 
     <defs>
         <radialGradient id="boxFill" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
@@ -28,8 +28,8 @@
         </g>
     </g>
 
-    <text transform="scale(0.1)" x="480" y="218" fill="#fff" font-size="180" font-weight="600"
+    <text transform="scale(0.1)" x="515" y="215" fill="#fff" font-size="170" font-weight="600"
         font-family="Tahoma, Geneva, sans-serif">
-        REACT
+        React
     </text>
 </svg>
