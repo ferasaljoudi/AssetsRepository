@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="125"
-    height="30" role="img" aria-label="JAVA">
-    <title>WORDPRESS</title>
+    height="30" role="img" aria-label="WordPress">
+    <title>WordPress</title>
 
     <defs>
         <radialGradient id="boxFill" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
@@ -19,7 +19,7 @@
 
     <rect x="0" y="0" width="125" height="30" fill="url(#boxFill)" />
 
-    <g transform="translate(5, 4) scale(0.18)">
+    <g transform="translate(4.8, 4.3) scale(0.18)">
         <path
             d="m8.708 61.26c0 20.802 12.089 38.779 29.619 47.298l-25.069-68.686c-2.916 6.536-4.55 13.769-4.55 21.388z" />
         <path
@@ -32,8 +32,8 @@
             d="m61.262 0c-33.779 0-61.262 27.481-61.262 61.26 0 33.783 27.483 61.263 61.262 61.263 33.778 0 61.265-27.48 61.265-61.263-.001-33.779-27.487-61.26-61.265-61.26zm0 119.715c-32.23 0-58.453-26.223-58.453-58.455 0-32.23 26.222-58.451 58.453-58.451 32.229 0 58.45 26.221 58.45 58.451 0 32.232-26.221 58.455-58.45 58.455z" />
     </g>
 
-    <text transform="scale(0.1)" x="300" y="203" fill="#fff" font-size="140" font-weight="600"
+    <text transform="scale(0.1)" x="312" y="210" fill="#fff" font-size="165" font-weight="600"
         font-family="Tahoma, Geneva, sans-serif">
-        WORDPRESS
+        WordPress
     </text>
 </svg>
