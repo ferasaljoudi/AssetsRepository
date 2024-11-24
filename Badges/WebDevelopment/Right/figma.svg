@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="125"
-    height="30" role="img" aria-label="JAVA">
+    height="30" role="img" aria-label="Figma">
     <title>Figma</title>
 
     <defs>
@@ -19,7 +19,7 @@
 
     <rect x="0" y="0" width="125" height="30" fill="url(#boxFill)" />
 
-    <g transform="translate(5, 3.2) scale(0.08)">
+    <g transform="translate(5, 2.6) scale(0.085)">
         <style type="text/css">
             .st0{fill:#0acf83}.st1{fill:#a259ff}.st2{fill:#f24e1e}.st3{fill:#ff7262}.st4{fill:#1abcfe}
         </style>
@@ -35,8 +35,8 @@
             d="M200 150c0 27.6-22.4 50-50 50s-50-22.4-50-50 22.4-50 50-50 50 22.4 50 50z" />
     </g>
 
-    <text transform="scale(0.1)" x="484" y="200" fill="#fff" font-size="150" font-weight="600"
+    <text transform="scale(0.1)" x="480" y="203" fill="#fff" font-size="170" font-weight="600"
         font-family="Tahoma, Geneva, sans-serif">
-        FIGMA
+        Figma
     </text>
 </svg>
