@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="125"
-    height="30" role="img" aria-label="JAVASCRIPT">
-    <title>JAVASCRIPT</title>
+    height="30" role="img" aria-label="JavaScript">
+    <title>JavaScript</title>
 
     <defs>
         <radialGradient id="boxFill" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
@@ -26,8 +26,8 @@
             fill="#323330" />
     </g>
 
-    <text transform="scale(0.1)" x="330" y="197" fill="#fff" font-size="135" font-weight="600"
+    <text transform="scale(0.1)" x="330" y="208" fill="#fff" font-size="160" font-weight="600"
         font-family="Tahoma, Geneva, sans-serif">
-        JAVASCRIPT
+        JavaScript
     </text>
 </svg>

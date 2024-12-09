@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="125"
-    height="30" role="img" aria-label="JAVA">
-    <title>JAVA</title>
+    height="30" role="img" aria-label="Java">
+    <title>Java</title>
 
     <defs>
         <radialGradient id="boxFill" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
@@ -19,7 +19,7 @@
 
     <rect x="0" y="0" width="125" height="30" fill="url(#boxFill)" />
 
-    <g transform="translate(5, 4) scale(0.05)">
+    <g transform="translate(5, 3.4) scale(0.0535)">
         <path fill-rule="evenodd" clip-rule="evenodd" fill="#0024BD"
             d="M117.151,349.592c0,0-17.265,10.049,12.301,13.44
             c35.824,4.09,54.13,3.501,93.596-3.959c0,0,10.397,6.504,24.892,12.137C159.439,409.127,47.644,369.013,117.151,349.592
@@ -54,8 +54,8 @@
             L133.799,450.637z" />
     </g>
 
-    <text transform="scale(0.1)" x="500" y="218" fill="#fff" font-size="185" font-weight="600"
+    <text transform="scale(0.1)" x="550" y="215" fill="#fff" font-size="170" font-weight="600"
         font-family="Tahoma, Geneva, sans-serif">
-        JAVA
+        Java
     </text>
 </svg>
