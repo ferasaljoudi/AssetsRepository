@@ -25,8 +25,8 @@
             fill="#F15A24" />
     </g>
 
-    <text transform="scale(0.1)" x="325" y="210" fill="#fff" font-size="160" font-weight="600"
+    <text transform="scale(0.1)" x="390" y="215" fill="#fff" font-size="165" font-weight="600"
         font-family="Tahoma, Geneva, sans-serif">
-        MAKEFILE
+        Makefile
     </text>
 </svg>
